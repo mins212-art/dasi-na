@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+/* =======================================
+   기본 스타일 및 글꼴 설정
+   (추후 세부 디자인 요소 추가 예정)
+   ======================================= */
+
+/* 전체 문서에 Google Fonts (Noto Sans KR) 적용 */
+body {
+  font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
